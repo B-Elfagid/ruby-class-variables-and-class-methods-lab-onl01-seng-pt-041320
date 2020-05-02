@@ -13,8 +13,11 @@ class Song
       @@song_count 
     end 
     
-    @@genre = []
-    def self.genre.unique 
+    @@genres = []
+    
+    def self.genres
+      @@genres.unique 
+    end 
     
     
   end 
