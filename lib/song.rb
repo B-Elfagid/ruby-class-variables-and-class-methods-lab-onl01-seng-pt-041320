@@ -13,5 +13,7 @@ class Song
       @@song_count 
     end 
     
+    def genre []
+    
   end 
     
