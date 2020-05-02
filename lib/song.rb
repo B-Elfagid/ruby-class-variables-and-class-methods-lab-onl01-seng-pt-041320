@@ -1,2 +1,3 @@
 class Song 
   
+  def intialize 
