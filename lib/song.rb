@@ -7,5 +7,6 @@ class Song
     @genre = genre
     
     
-    def 
+    def self.song 
+      @@
     
