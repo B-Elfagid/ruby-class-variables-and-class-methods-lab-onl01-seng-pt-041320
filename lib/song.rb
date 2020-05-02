@@ -14,6 +14,7 @@ class Song
     end 
     
     @@genre = []
+    def self.genre.unique 
     
     
   end 
